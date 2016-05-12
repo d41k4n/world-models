@@ -102,7 +102,7 @@ IDX	76
 IDX	77
 IDX	74
 
-ATTR_LOD 0 8000
+ATTR_LOD 0.0000 12000.0000
 TRIS	0 114
 
 # Build with Blender 2.70 (sub 0) (build b'f93bc76') Exported with XPlane2Blender 3.20
