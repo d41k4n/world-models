@@ -1,6 +1,5 @@
 width,length,type,region,model,height-min,height-max,stories,shape,library,tags,minX,maxX,minY,maxY
 
-
 #Netherlands
 5.5,14.0,residential,NL,objects/houses/EU/NL/RES_5.5x14.00_NL1.obj,,,2,SQ,W2XP,,0,6,0,6
 5.0,10.0,residential,NL,objects/houses/EU/NL/RES_5.0x10.00_NL1.obj,,,2,SQ,W2XP,,0,6,0,6

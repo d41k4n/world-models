@@ -43,7 +43,7 @@ IDX10	22 21 20 23 20 21 26 25 24 29
 IDX	28
 IDX	27
 
-ATTR_LOD 0 8000
+ATTR_LOD 0.0000 12000.0000
 TRIS	0 42
 
 # Built with SketchUp by Blacky75. Exported with SketchUp2XPlane 1.59.

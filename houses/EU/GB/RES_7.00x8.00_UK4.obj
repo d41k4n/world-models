@@ -91,7 +91,7 @@ IDX10	62	63	64	64	65	62	66	67	68	68
 IDX	69
 IDX	66
 
-ATTR_LOD 0 7000
+ATTR_LOD 0.0000 12000.0000
 TRIS	0 102
 
 # Build with Blender 2.70 (sub 0) (build b'f93bc76') Exported with XPlane2Blender 3.20
