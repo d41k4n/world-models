@@ -275,18 +275,18 @@ IDX 225
 IDX 224
 ATTR_no_cull
 TRIS 0 384
-ANIM_begin
-LIGHT_NAMED ship_mast_obs 0.000000 49.341400 0.000000
-ANIM_end
-ANIM_begin
-LIGHT_NAMED ship_mast_obs 0.715700 42.221401 0.631800
-ANIM_end
-ANIM_begin
-LIGHT_NAMED ship_mast_obs 0.715700 42.221401 -0.631800
-ANIM_end
-ANIM_begin
-LIGHT_NAMED ship_mast_obs -0.715700 42.221401 -0.631800
-ANIM_end
-ANIM_begin
-LIGHT_NAMED ship_mast_obs -0.715700 42.221401 0.631800
-ANIM_end
+# ANIM_begin
+# LIGHT_NAMED ship_mast_obs 0.000000 49.341400 0.000000
+# ANIM_end
+# ANIM_begin
+# LIGHT_NAMED ship_mast_obs 0.715700 42.221401 0.631800
+# ANIM_end
+# ANIM_begin
+# LIGHT_NAMED ship_mast_obs 0.715700 42.221401 -0.631800
+# ANIM_end
+# ANIM_begin
+# LIGHT_NAMED ship_mast_obs -0.715700 42.221401 -0.631800
+# ANIM_end
+# ANIM_begin
+# LIGHT_NAMED ship_mast_obs -0.715700 42.221401 0.631800
+# ANIM_end

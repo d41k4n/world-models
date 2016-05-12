@@ -10,7 +10,7 @@ def generate_building(texture, prefix, postfix, width, length, height)
   # Write texture, and texture lit
   obj_text << "TEXTURE #{texture}\n"
   # Write LOD
-  obj_text << "ATTR_LOD 0 5000.000000\n"
+  obj_text << "ATTR_LOD 0.0000 12000.0000\n"
   
   w_txt_width = 10.0;
   w_txt_height = 10.0;

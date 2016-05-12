@@ -1,3 +1,15 @@
+width,length,type,region,model,height-min,height-max,stories,shape,library
+#Lugano
 9.9,0.13,,MED,objects/billboards/billboards_9.9x0.13_1_lugano.obj,,,1,SQ,W2XP
 8.23,0.12,,MED,objects/billboards/billboards_8.23x0.12_2_lugano.obj,,,1,SQ,W2XP
 1.76,0.1,,MED,objects/billboards/billboards_1.76x0.1_3_lugano.obj,,,1,SQ,W2XP
+
+#R2
+9.0,3.6,,,R2_Library/industrial/reklamy/billboard-900x360-2.obj,,,1,SQ,R2
+9.0,3.6,,,R2_Library/industrial/reklamy/billboard-900x360-3.obj,,,1,SQ,R2
+9.0,3.6,,,R2_Library/industrial/reklamy/billboard-900x360-5.obj,,,1,SQ,R2
+9.0,3.6,,,R2_Library/industrial/reklamy/billboard-900x360-11.obj,,,1,SQ,R2
+9.0,3.6,,,R2_Library/industrial/reklamy/billboard-900x360-14.obj,,,1,SQ,R2
+9.0,3.6,,,R2_Library/industrial/reklamy/billboard-900x360-22.obj,,,1,SQ,R2
+9.0,3.6,,,R2_Library/industrial/reklamy/billboard-900x360-25.obj,,,1,SQ,R2
+9.0,3.6,,,R2_Library/industrial/reklamy/billboard-900x360-26.obj,,,1,SQ,R2
