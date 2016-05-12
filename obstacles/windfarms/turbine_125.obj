@@ -535,8 +535,7 @@ IDX	467
 IDX	468
 
 LIGHT_NAMED	obs_red_night	-0.00000000	125.92860413	-0.00000336
-
-# PRIMITIVE: Motor	weight: 4
+ATTR_no_cull
 ANIM_begin
 	ANIM_rotate_begin	1.00000000	0.00000000	0.00000000	none
 		ANIM_rotate_key	1.00000000	0
@@ -550,12 +549,7 @@ ANIM_begin
 		ANIM_rotate_key	1.00000000	0
 		ANIM_rotate_key	2.00000000	0
 	ANIM_rotate_end
-	ATTR_shiny_rat	 0.500
-	ATTR_no_hard
-	ATTR_no_cull
-	ATTR_depth
 	TRIS	0 168
-	# PRIMITIVE: Blades	weight: 2
 	ANIM_begin
 		ANIM_trans	0.33436227	128.60696411	-9.89603615	0.33436227	128.60696411	-9.89603615	0	0	none
 		ANIM_rotate_begin	0.00000000	1.00000000	-0.00000004	sim/time/total_running_time_sec

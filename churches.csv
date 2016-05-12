@@ -67,3 +67,8 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 41.3,19.7,church,,R2_Library/budovy/kostely/kostel-41m-sedy.obj,,,,SQ,R2
 29.2,14.7,church,,R2_Library/budovy/kostely/kostel-30m.obj,,,,SQ,R2
 49.8,23.8,church,,R2_Library/budovy/kostely/kostel-50m.obj,,,,SQ,R2
+
+40.0,32.58,,MED,objects/churches/med/churches_40.0x32.58_3_lugano.obj,,,,SQ,W2XP
+61.85,66.42,,MED,objects/churches/med/churches_61.85x66.42_4_lugano.obj,,,,SQ,W2XP
+53.39,29.69,,MED,objects/churches/med/churches_53.39x29.69_5_lugano.obj,,,,SQ,W2XP
+
