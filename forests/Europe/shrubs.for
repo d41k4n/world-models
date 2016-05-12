@@ -10,7 +10,7 @@ SCALE_Y 2048
 SPACING 6 6
 
 NO_SHADOW
-LOD 12000.000000
+LOD 15000.0000
 RANDOM 3 3
 
 #tree	s		t			w		y		offset	%		height	height	quads	type	name

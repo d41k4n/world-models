@@ -127,7 +127,7 @@ IDX10	96 95 94 97 94 95 100 99 98 101
 IDX	98
 IDX	99
 
-ATTR_LOD 0 8000
+ATTR_LOD 0.0000 12000.0000
 TRIS	0 162
 
 # Built by Blacky75 with SketchUp. Exported with SketchUp2XPlane 1.59.

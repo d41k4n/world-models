@@ -1354,7 +1354,8 @@ EXPORT objects/barriers/block.obj barriers/block.obj
 EXPORT objects/billboards/billboards_1.76x0.1_2_lugano.obj billboards/billboards_1.76x0.1_2_lugano.obj
 EXPORT objects/billboards/billboards_8.23x0.12_1_lugano.obj billboards/billboards_8.23x0.12_1_lugano.obj
 EXPORT objects/billboards/billboards_9.9x0.13_0_lugano.obj billboards/billboards_9.9x0.13_0_lugano.obj
-EXPORT objects/cars/car_mercedes_sprinter.obj cars/car_mercedes_sprinter.obj
+EXPORT objects/cars/car_mercedes_sprinter.obj cars/cars_mercedes_sprinter.obj
+EXPORT objects/cars/cars_mercedes_sprinter.obj cars/cars_mercedes_sprinter.obj
 EXPORT objects/cars/cars_bmw_3_touring.obj cars/cars_bmw_3_touring.obj
 EXPORT objects/cars/cars_bus_blue.obj cars/cars_bus_blue.obj
 EXPORT objects/cars/cars_bus_green.obj cars/cars_bus_green.obj
@@ -3594,6 +3595,10 @@ EXPORT forests/Europe/shrubs-fuzzy.for forests/Europe/shrubs-fuzzy.for
 EXPORT forests/Europe/shrubs-sd.for forests/Europe/shrubs-sd.for
 EXPORT forests/Europe/shrubs.for forests/Europe/shrubs.for
 EXPORT forests/Europe/vineyard.for forests/Europe/vineyard.for
+EXPORT lib/g10/forests/autogen_tree1.obj forests/blank.obj
+EXPORT lib/g10/forests/autogen_tree2.obj forests/blank.obj
+EXPORT lib/g10/forests/autogen_tree3.obj forests/blank.obj
+EXPORT lib/g10/forests/autogen_tree4.obj forests/blank.obj
 EXPORT uk/terraced7_7.obj houses/EU/GB/terraced/terraced_1_7_1.obj
 EXPORT uk/terraced7_7.obj houses/EU/GB/terraced/terraced_1_7_2.obj
 EXPORT uk/terraced7_7.obj houses/EU/GB/terraced/terraced_1_7_3.obj
