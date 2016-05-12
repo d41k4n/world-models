@@ -1,0 +1,20 @@
+min-height,max-height,min-area,max-area,regions,facade,roof-height
+
+# Residential Blocks 4 stories
+12.0,13.0,,,US;CA;AU;NZ;GB,facades/residential/apartments/apartment1-4US.fac,3
+
+# Residential Blocks 3 - 6 stories
+9.0,18.0,,,,facades/residential/apartments/apartment2-3to6AU.fac,3
+
+# Residential Blocks from 6 to 10 stories
+18.0,30.0,,,,facades/residential/blocks-6-10/apartment1.fac,3
+18.0,30.0,,,,facades/residential/blocks-6-10/apartment2.fac,3
+18.0,30.0,,,,facades/residential/blocks-6-10/apartment3.fac,3
+18.0,30.0,,,,facades/residential/blocks-6-10/apartment4.fac,3
+
+# Residential Blocks from 10+ stories
+30.0,,,,,facades/residential/blocks-10+/apartment1.fac,3
+30.0,,,,,facades/residential/blocks-10+/apartment2.fac,3
+30.0,,,,,facades/residential/blocks-10+/apartment3.fac,3
+30.0,,,,,facades/residential/blocks-10+/apartment4.fac,3
+

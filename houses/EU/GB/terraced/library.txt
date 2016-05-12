@@ -1,0 +1,39 @@
+A
+800
+LIBRARY
+
+EXPORT uk/terraced7_7.obj houses/EU/GB/terraced/terraced_1_7_1.obj
+EXPORT uk/terraced7_7.obj houses/EU/GB/terraced/terraced_1_7_2.obj
+EXPORT uk/terraced7_7.obj houses/EU/GB/terraced/terraced_1_7_3.obj
+
+EXPORT uk/terraced14_7.obj houses/EU/GB/terraced/terraced_2_7_1.obj
+EXPORT uk/terraced14_7.obj houses/EU/GB/terraced/terraced_2_7_2.obj
+EXPORT uk/terraced14_7.obj houses/EU/GB/terraced/terraced_2_7_3.obj
+
+EXPORT uk/terraced21_7.obj houses/EU/GB/terraced/terraced_3_7_1.obj
+EXPORT uk/terraced21_7.obj houses/EU/GB/terraced/terraced_3_7_2.obj
+EXPORT uk/terraced21_7.obj houses/EU/GB/terraced/terraced_3_7_3.obj
+
+EXPORT uk/terraced28_7.obj houses/EU/GB/terraced/terraced_4_7_1.obj
+EXPORT uk/terraced28_7.obj houses/EU/GB/terraced/terraced_4_7_2.obj
+EXPORT uk/terraced28_7.obj houses/EU/GB/terraced/terraced_4_7_3.obj
+
+EXPORT uk/terraced42_7.obj houses/EU/GB/terraced/terraced_6_7_1.obj
+EXPORT uk/terraced42_7.obj houses/EU/GB/terraced/terraced_6_7_2.obj
+
+EXPORT uk/terraced49_7.obj houses/EU/GB/terraced/terraced_7_7_1.obj
+
+
+EXPORT uk/terraced35_8.obj houses/EU/GB/terraced/terraced_7_8_1.obj
+EXPORT uk/terraced35_8.obj houses/EU/GB/terraced/terraced_7_8_2.obj
+
+EXPORT uk/terraced25_8.obj houses/EU/GB/terraced/terraced_5_8_1.obj
+EXPORT uk/terraced25_8.obj houses/EU/GB/terraced/terraced_5_8_2.obj
+EXPORT uk/terraced25_8.obj houses/EU/GB/terraced/terraced_5_8_3.obj
+
+EXPORT uk/terraced15_8.obj houses/EU/GB/terraced/terraced_3_8_1.obj
+EXPORT uk/terraced15_8.obj houses/EU/GB/terraced/terraced_3_8_2.obj
+
+EXPORT uk/terraced7_8.obj houses/EU/GB/terraced/terraced_1_8_1.obj
+EXPORT uk/terraced7_8.obj houses/EU/GB/terraced/terraced_1_8_2.obj
+

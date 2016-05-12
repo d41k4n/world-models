@@ -1,0 +1,10 @@
+A
+800
+LIBRARY
+
+# World2XPlane Model Library
+
+EXPORT  lib/g10/forests/autogen_tree1.obj forests/blank.obj
+EXPORT  lib/g10/forests/autogen_tree2.obj forests/blank.obj
+EXPORT  lib/g10/forests/autogen_tree3.obj forests/blank.obj
+EXPORT  lib/g10/forests/autogen_tree4.obj forests/blank.obj
