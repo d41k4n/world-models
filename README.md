@@ -36,5 +36,3 @@ Please only use metric measurements, as this is what X-Plane uses, as well as th
 
 
 The importer will use the 3 CSV files, residential.csv, industrial.csv and agriculture.csv. These files also include items from the R2 library
-
-Lugano buildings donated by Antonio aka silviopargentin

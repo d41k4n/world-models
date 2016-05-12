@@ -1571,7 +1571,7 @@ IDX	1313
 IDX	1312
 IDX	1311
 
-ATTR_LOD 0 10000
+ATTR_LOD 0.0000 3000.00000
 ANIM_begin
 ANIM_rotate 0.000000 1.000000 0.000000 0.000000 360.000000 0.000000 360.000000 sim/graphics/animation/airport_beacon_rotation
 LIGHT_NAMED	apt_beacon_white_glow	  -0.0586   23.2900    0.2627	

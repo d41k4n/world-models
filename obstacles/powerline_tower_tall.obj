@@ -2282,6 +2282,6 @@ TRIS	3486 324
 ####_group	40_far_outer
 #TRIS	3900 60
 
-LIGHT_NAMED town_light_350   0.0000  40.0   0.0000
-LIGHT_NAMED town_light_350   0.0 40.0 0.0
+# LIGHT_NAMED town_light_350   0.0000  40.0   0.0000
+# LIGHT_NAMED town_light_350   0.0 40.0 0.0
 
