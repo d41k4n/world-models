@@ -3595,10 +3595,6 @@ EXPORT forests/Europe/shrubs-fuzzy.for forests/Europe/shrubs-fuzzy.for
 EXPORT forests/Europe/shrubs-sd.for forests/Europe/shrubs-sd.for
 EXPORT forests/Europe/shrubs.for forests/Europe/shrubs.for
 EXPORT forests/Europe/vineyard.for forests/Europe/vineyard.for
-EXPORT lib/g10/forests/autogen_tree1.obj forests/blank.obj
-EXPORT lib/g10/forests/autogen_tree2.obj forests/blank.obj
-EXPORT lib/g10/forests/autogen_tree3.obj forests/blank.obj
-EXPORT lib/g10/forests/autogen_tree4.obj forests/blank.obj
 EXPORT uk/terraced7_7.obj houses/EU/GB/terraced/terraced_1_7_1.obj
 EXPORT uk/terraced7_7.obj houses/EU/GB/terraced/terraced_1_7_2.obj
 EXPORT uk/terraced7_7.obj houses/EU/GB/terraced/terraced_1_7_3.obj
