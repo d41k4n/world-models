@@ -2,8 +2,8 @@ I
 800
 OBJ
 
-TEXTURE		Asfalto_case_camping.png
-TEXTURE_LIT	Asfalto_case_camping_LIT.png
+TEXTURE		../textures/Asfalto_case_camping.png
+TEXTURE_LIT	../textures/Asfalto_case_camping_LIT.png
 POINT_COUNTS	64 0 0 84
 
 VT	   4.0000    2.0000   -0.0000	 0.000  0.936  0.351	 0.9281  0.7057

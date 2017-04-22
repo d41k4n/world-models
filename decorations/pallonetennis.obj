@@ -2,8 +2,8 @@ I
 800
 OBJ
 
-TEXTURE		pallonetennis_text.png
-TEXTURE_LIT	pallonetennis_text_LIT.png
+TEXTURE		../textures/pallonetennis_text.png
+TEXTURE_LIT	../textures/pallonetennis_text_LIT.png
 POINT_COUNTS	138 0 0 270
 
 VT	   0.0000    1.8009  -30.6501	-1.000  0.000 -0.000	 0.0522  0.7693
