@@ -1,0 +1,12 @@
+min-height,max-height,min-area,max-area,regions,facade,roof-height
+
+# Residential Blocks from 10+ stories
+30.0,,,,,facades/residential/blocks-10+/apartment1.fac,3
+30.0,,,,,facades/residential/blocks-10+/apartment2.fac,3
+30.0,,,,,facades/residential/blocks-10+/apartment3.fac,3
+30.0,,,,,facades/residential/blocks-10+/apartment4.fac,3
+
+# Office Blocks 10 stories +
+30.0,,,,,facades/commercial/blocks-10+/office1.fac,3
+30.0,,,,,facades/commercial/blocks-10+/office2.fac,3
+

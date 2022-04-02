@@ -1,0 +1,7 @@
+min-height,max-height,min-area,max-area,regions,facade,roof-height
+
+# Office Blocks 10 stories +
+30.0,,,,,facades/commercial/blocks-10+/office1.fac,3
+30.0,,,,,facades/commercial/blocks-10+/office2.fac,3
+
+

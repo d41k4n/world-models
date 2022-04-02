@@ -1,0 +1,9 @@
+A
+800
+OBJ
+
+LIGHT_NAMED oilrig_deck_blue 0 1 0
+ANIM_begin
+ANIM_rotate 0.000000 1.000000 0.000000 0.000000 360.000000 0.000000 360.000000 sim/graphics/animation/airport_beacon_rotation
+LIGHT_NAMED	hospital_helipad_blue	0 1 0
+ANIM_end

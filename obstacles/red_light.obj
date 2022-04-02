@@ -1,0 +1,9 @@
+A
+800
+OBJ
+
+LIGHT_NAMED obs_red_day  0 0.5 0
+ANIM_begin
+ANIM_rotate 0.000000 1.000000 0.000000 0.000000 360.000000 0.000000 360.000000 sim/graphics/animation/airport_beacon_rotation
+LIGHT_NAMED	obs_red_night_sml 	0 0.5 0
+ANIM_end

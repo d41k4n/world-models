@@ -1,0 +1,7 @@
+#Windows thumbnails
+Thumbs.db
+.DS_Store
+*.DS_Store
+#Sketchup models
+*.skp
+*.skb
